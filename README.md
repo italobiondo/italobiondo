@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=italobiondo&show_icons=true&locale=en&layout=compact" alt="italobiondo" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=italobiondo&show_icons=true&locale=pt-br&layout=pie" alt="italobiondo" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=italobiondo&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="italobiondo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=italobiondo&show_icons=true&theme=dracula&locale=pt-br" alt="italobiondo" /></p>
