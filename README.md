@@ -5,7 +5,7 @@
 
 - 📫 Entre em contato: **italo.a.biondo@gmail.com**
 
-- 📄 Conheça minhas experiências [HTML | CSS | JavaScript | Oracle SQL](HTML | CSS | JavaScript | Oracle SQL)
+- 📄 Conheça minhas experiências [JavaScript | Oracle SQL | C#] (JavaScript | Oracle SQL | C#)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
